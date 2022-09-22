@@ -4,8 +4,7 @@
 <p>Welcome to my page! </br> I'm azhsmesos, Fullstack developer from  <b>Beijin, China</b>
 <h3>Things I code with</h3>
 <p>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="DevStream " src="devstream.png">
+  <img alt="DevStream " src="devstream.png" height="200" width="200">
 </p>
 
 <h3>Open source projects</h3>
