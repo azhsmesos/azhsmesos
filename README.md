@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm azhsmesos, Free developer from  <b>Beijin, China</b>
 <h3>Things I code with</h3>
 <p>
   <img alt="DevStream " src="devstream.png" height="200" width="200">
